@@ -35,6 +35,6 @@ A template to write guitar tabs, both in vertical and horizontal with or without
 
 ### AG_cuvave
 
-This is perhaps useful only to myself, I uiset to notate the position of the controls of my guitar multi-effect (namely Cube Baby Cuvave, also known as EKO BAIO).  
+This is perhaps useful only to myself, I use it to notate the position of the controls of my guitar multi-effect (namely Cube Baby Cuvave, also known as EKO BAIO).  
 
 
