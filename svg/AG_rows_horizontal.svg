@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="137mm"
+   height="103mm"
+   viewBox="0 0 1436.5049 1082.6277"
+   version="1.1"
+   id="svg821"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="AG_rows_horizontal_V02.svg"
+   inkscape:export-filename="/home/andrea/Cozy Drive/Documenti/mobiscribe/templates/AG_Rows/AG_rows_horizontal_5mm.png"
+   inkscape:export-xdpi="266.33008"
+   inkscape:export-ydpi="266.33008">
+  <defs
+     id="defs815" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="399.52644"
+     inkscape:cy="276.94267"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="mm"
+     inkscape:window-width="1872"
+     inkscape:window-height="1016"
+     inkscape:window-x="48"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     viewbox-width="285.15"
+     viewbox-height="1439.7"
+     scale-x="8.0973"
+     showguides="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1366"
+       originx="0"
+       originy="0"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata818">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-5.0000005,-1447.3742)">
+    <path
+       style="opacity:1;fill:#b3b3b3;stroke:#b3b3b3;stroke-width:2.10218954;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 55.807222,1499.929 c 1366.423278,0 1366.423278,0 1366.423278,0"
+       id="path3560"
+       inkscape:connector-curvature="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path3560"
+       id="use3950"
+       transform="translate(4.3625614e-7,52.554717)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path3560"
+       id="use3952"
+       transform="translate(4.3625615e-7,105.10946)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path3560"
+       id="use3954"
+       transform="translate(0,157.66416)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path3560"
+       id="use3956"
+       transform="translate(0,210.21891)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path3560"
+       id="use3958"
+       transform="translate(0,262.77365)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path3560"
+       id="use3960"
+       transform="translate(0,315.32839)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path3560"
+       id="use3962"
+       transform="translate(0,367.88313)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path3560"
+       id="use3950-3"
+       transform="translate(4.3625609e-7,420.4379)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path3560"
+       id="use3952-9"
+       transform="translate(4.3625609e-7,472.99264)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path3560"
+       id="use3954-0"
+       transform="translate(4.3625609e-7,525.54734)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path3560"
+       id="use3956-8"
+       transform="translate(4.3625609e-7,578.10211)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path3560"
+       id="use3958-8"
+       transform="translate(4.3625609e-7,630.65683)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path3560"
+       id="use3960-5"
+       transform="translate(4.3625609e-7,683.21158)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path3560"
+       id="use3962-0"
+       transform="translate(4.3625609e-7,735.76632)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path3560"
+       id="use3958-8-9"
+       transform="translate(-1.1586725e-5,788.32107)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path3560"
+       id="use3960-5-6"
+       transform="translate(-1.1586725e-5,840.87582)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path3560"
+       id="use3962-0-3"
+       transform="translate(-1.1586725e-5,893.43054)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path3560"
+       id="use3960-5-6-1"
+       transform="translate(4.3625553e-7,945.98532)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path3560"
+       id="use3962-0-3-5"
+       transform="translate(4.3625553e-7,998.54002)"
+       width="100%"
+       height="100%" />
+  </g>
+</svg>
