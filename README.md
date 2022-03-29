@@ -37,4 +37,10 @@ A template to write guitar tabs, both in vertical and horizontal with or without
 
 This is perhaps useful only to myself, I use it to notate the position of the controls of my guitar multi-effect (namely Cube Baby Cuvave, also known as EKO BAIO).  
 
+### AG_graph_paper
+
+Graph paper in millimeters (note, millimiter size SHOULD be referred in full screen mode).  
+
+
+
 
